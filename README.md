@@ -10,7 +10,7 @@ Instala la única dependencia del proyecto:
 pip install pygame
 ```
 
-## ▶️ Ejecución
+##  Ejecución
 
 ```bash
 python main.py
