@@ -1,4 +1,4 @@
-# 🐦 Future Bird
+#  Future Bird
 
 **Future Bird** es un juego de supervivencia inspirado en *Flappy Bird*, desarrollado en **Python** utilizando **Pygame**.
 
