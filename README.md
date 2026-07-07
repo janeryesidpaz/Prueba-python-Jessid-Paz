@@ -7,13 +7,13 @@ El objetivo es mantenerse en el aire el mayor tiempo posible mientras esquivas o
 ---
 
 
-## ⚠️ Importante
+## Importante
 
 Para que el juego funcione correctamente, asegúrate de descargar **todos los archivos del proyecto**, incluyendo las imágenes y los archivos de audio.
 
 ---
 
-## 📦 Instalación
+## Instalación
 
 Instala la única dependencia del proyecto:
 
